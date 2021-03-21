@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project</string>
+    <string name="recognize">Recognize</string>
+    <string name="probability">Probability</string>
+    <string name="prediction">Prediction</string>
+    <string name="clear">clear</string>
+    <string name="save">save</string>
+    <string name="the_most_similar">The most similar</string>
+</resources>
